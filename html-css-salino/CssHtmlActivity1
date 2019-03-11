@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <style>
+	
+            h1 {
+                color: green;
+                text-align: center;
+               }
+           h4 {
+                text-align: center;
+		color: yellow;
+              }
+	   p {
+		color: red;
+		text-align: left;
+        </style>
+    </head>
+
+    <body style="background-color: black"> 
+	<h1>Your Song</h1>
+        <h4>Parokya Ni Edgar</h4>
+        <p></br>
+It took</br>
+One look</br>
+And forever lay out in front of you</br>
+</br>
+One smile</br>
+Then I die</br>
+But it will be revived by you</br>
+</br>
+There I was</br>
+Thought I had everything</br>
+Figured out</br>
+Goes to show just how much I know</br>
+Bout the way life plays out</br>
+</br>
+Chorus:</br>
+I take one step away</br>
+And I find myself coming back</br>
+To you</br>
+My one and only</br>
+One and only</br>
+You..</br>
+</br>
+Now I know</br>
+That I know not a thing at all</br>
+Except the fact that I am yours</br>
+And that you are mine</br>
+</br>
+Oh</br>
+If you told me that it wouldn't be easy</br>
+And Oh</br>
+I'm not one to complain</br>
+</br>
+Repeat chorus</br>
+(except the last word)</br>
+</br>
+Repeat chorus</br>
+</p>
+    </body>
+</html>
